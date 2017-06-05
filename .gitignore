@@ -13,3 +13,6 @@
 .dsn
 
 *~
+
+# no zips
+*.zip
