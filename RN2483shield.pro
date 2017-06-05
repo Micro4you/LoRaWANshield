@@ -1,4 +1,4 @@
-update=Sun 04 Jun 2017 16:06:37 IST
+update=Mon 05 Jun 2017 21:05:33 IST
 version=1
 last_client=kicad
 [pcbnew]
@@ -27,7 +27,7 @@ NetIExt=net
 version=1
 [eeschema]
 version=1
-LibDir=Other_Libraries;My_Library
+LibDir=My_Library
 [eeschema/libraries]
 LibName1=power
 LibName2=device
@@ -59,7 +59,6 @@ LibName27=atmel
 LibName28=contrib
 LibName29=valves
 LibName30=My_Library/rn2483
-LibName31=Other_Libraries/freetronics_schematic
-LibName32=My_Library/screw_terminal
-LibName33=My_Library/sma_through
-LibName34=My_Library/sma
+LibName31=My_Library/screw_terminal
+LibName32=My_Library/sma_through
+LibName33=My_Library/sma
